@@ -22,7 +22,7 @@ npm install
 ## Available scripts
 - `npm run dev` — Start the dev server (Vite)
 - `npm run build` — Build production assets
-- `npm run preview` — Preview production build locally
+- `npm run preview` — Preview production build locally 
 
 These scripts use Vite (see `package.json`).
 
