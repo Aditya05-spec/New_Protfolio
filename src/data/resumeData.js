@@ -102,7 +102,7 @@ export const projects = [
     gradient: "from-rose-600/20 via-pink-500/20 to-red-500/20",
   },
   {
-    title: "CodePilot AI",
+    title: "LeetSync AI",
     tech: ["React.js", "FastAPI", "LangGraph", "ChromaDB", "Ollama", "Docker"],
     duration: "April 2026",
     description:
@@ -112,7 +112,7 @@ export const projects = [
       "Developed a Retrieval-Augmented Generation (RAG) pipeline using ChromaDB.",
       "Integrated GitHub APIs and LLMs to analyze repos and boost developer productivity.",
     ],
-    github: "https://github.com/Aditya05-spec/CodePilot-AI",
+    github: "https://github.com/Aditya05-spec/LeetSync_AI",
     live: null,
     icon: "fas fa-robot",
     gradient: "from-cyan-600/20 via-blue-500/20 to-indigo-500/20",
@@ -138,8 +138,8 @@ export const skillsWithProficiency = [
     color: "from-violet-500 to-purple-500",       /* purple bar */
     barColor: "#A855F7",
     skills: [
-      { name: "Java", level: 90 },
-      { name: "C++", level: 88 },
+      { name: "C++", level: 95 },
+      { name: "Java", level: 80 },
       { name: "Python", level: 85 },
       { name: "JavaScript", level: 82 },
       { name: "TypeScript", level: 75 },
