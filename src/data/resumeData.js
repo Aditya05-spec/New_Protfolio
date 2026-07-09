@@ -220,15 +220,15 @@ export const codingProfiles = {
     platform: "LeetCode",
     username: "adityapratapsingh",
     profileUrl: "https://leetcode.com/u/Aditya_09__/",
-    rating: 1804,
-    maxRating: 1804,
+    rating: 1864,
+    maxRating: 1864,
     problemsSolved: 800,
     rank: "Knight",
     icon: "fas fa-code",
     color: "#FFA116",
     stats: [
       { label: "Problems Solved", value: "800+" },
-      { label: "Contest Rating", value: "1804" },
+      { label: "Contest Rating", value: "1864" },
       { label: "Rank", value: "Knight" },
     ],
     /* Simulated rating history for the graph */
@@ -260,8 +260,8 @@ export const achievements = [
     icon: "fas fa-code",
   },
   {
-    title: "LeetCode Rating: 1804",
-    description: "Achieved a competitive LeetCode rating of 1714.",
+    title: "LeetCode Rating: 1864",
+    description: "Achieved a competitive LeetCode rating of 1864.",
     icon: "fas fa-chart-line",
   },
   {
