@@ -9,7 +9,7 @@ export const personalInfo = {
   email: "adityapratapsinghthb@gmail.com",
   phone: "+91 8708024854",
   github: "https://github.com/Aditya05-spec",
-  linkedin: "linkedin.com/in/aditya-pratap-singh-882652320",
+  linkedin: "https://linkedin.com/in/aditya-pratap-singh-882652320",
   location: "Mohali, Punjab, India",
   roles: [
     "Full-Stack Software Engineer",
