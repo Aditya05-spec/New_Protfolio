@@ -23,7 +23,7 @@ export const personalInfo = {
 
 export const stats = [
   { label: "DSA Problems", value: 800, suffix: "+", icon: "fas fa-code" },
-  { label: "LeetCode Rating", value: 1714, suffix: "", icon: "fas fa-chart-line" },
+  { label: "LeetCode Rating", value: 1862, suffix: "", icon: "fas fa-chart-line" },
   { label: "CGPA", value: 8.37, suffix: "", icon: "fas fa-graduation-cap", isDecimal: true },
   { label: "Hackathons Won", value: 1, suffix: "", icon: "fas fa-trophy" },
 ];
