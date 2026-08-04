@@ -9,7 +9,7 @@ export const personalInfo = {
   email: "adityapratapsinghthb@gmail.com",
   phone: "+91 8708024854",
   github: "https://github.com/Aditya05-spec",
-  linkedin: "https://linkedin.com/in/Aditya",
+  linkedin: "linkedin.com/in/aditya-pratap-singh-882652320",
   location: "Mohali, Punjab, India",
   roles: [
     "Full-Stack Software Engineer",
@@ -232,7 +232,7 @@ export const codingProfiles = {
       { label: "Rank", value: "Knight" },
     ],
     /* Simulated rating history for the graph */
-    ratingHistory: [1450, 1480, 1510, 1490, 1530, 1560, 1545, 1590, 1620, 1600, 1650, 1680, 1660, 1700, 1714],
+    ratingHistory: [1450, 1480, 1510, 1490, 1530, 1560, 1545, 1590, 1620, 1600, 1650, 1680, 1660, 1700, 1714 , 1864 , 1862],
   },
   codeforces: {
     platform: "Codeforces",
