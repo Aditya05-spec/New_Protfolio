@@ -341,7 +341,7 @@ export default function CodingProfiles() {
         >
           {[
             { icon: 'fas fa-fire', label: 'Total Problems', value: '1000+', color: '#FF6B6B' },
-            { icon: 'fas fa-trophy', label: 'Best LC Rating', value: '1714', color: '#FFA116' },
+            { icon: 'fas fa-trophy', label: 'Best LC Rating', value: '1864', color: '#FFA116' },
             { icon: 'fas fa-star', label: 'CF Rating', value: '1239', color: '#008000' },
             { icon: 'fas fa-bolt', label: 'Platforms Active', value: '2', color: '#00E5FF' },
           ].map((s) => (
