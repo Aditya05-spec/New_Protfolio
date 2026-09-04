@@ -18,7 +18,7 @@ export const personalInfo = {
     "Hackathon Winner",
   ],
   summary:
-    "Full-Stack Software Engineer skilled in Java, Python, JavaScript, React.js, Node.js, and MongoDB. Experienced in building scalable REST APIs, deploying production applications, and implementing CI/CD pipelines in agile environments. Solved 800+ Data Structures & Algorithms problems on LeetCode with a rating of 1714. Proven ability to collaborate on technical design, product roadmaps, and operational excellence. Hackathon winner with an entrepreneurial mindset and passion for building customer-centric, high-quality software.",
+    "Full-Stack Software Engineer skilled in Java, Python, JavaScript, React.js, Node.js, and MongoDB. Experienced in building scalable REST APIs, deploying production applications, and implementing CI/CD pipelines in agile environments. Solved 800+ Data Structures & Algorithms problems on LeetCode with a rating of 1862. Proven ability to collaborate on technical design, product roadmaps, and operational excellence. Hackathon winner with an entrepreneurial mindset and passion for building customer-centric, high-quality software.",
 };
 
 export const stats = [
@@ -232,7 +232,7 @@ export const codingProfiles = {
       { label: "Rank", value: "Knight" },
     ],
     /* Simulated rating history for the graph */
-    ratingHistory: [1450, 1480, 1510, 1490, 1530, 1560, 1545, 1590, 1620, 1600, 1650, 1680, 1660, 1700, 1714 , 1864 , 1862],
+    ratingHistory: [1450, 1480, 1510, 1490, 1530, 1560, 1545, 1590, 1620, 1600, 1650, 1680, 1660, 1700, 1862 , 1864 , 1862],
   },
   codeforces: {
     platform: "Codeforces",
