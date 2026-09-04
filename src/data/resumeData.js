@@ -49,7 +49,7 @@ export const education = [
 
 export const experience = [
   {
-    role: "Full Stack Developer Intern",
+    role: "Software Developer Engineer Intern",
     company: "CU-TBI (Technology Business Incubator, Chandigarh University)",
     location: "Mohali, Punjab (On-site)",
     duration: "Jul 2025 – Jan 2026",
