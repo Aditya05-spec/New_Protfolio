@@ -18,12 +18,12 @@ export const personalInfo = {
     "Hackathon Winner",
   ],
   summary:
-    "Full-Stack Software Engineer skilled in Java, Python, JavaScript, React.js, Node.js, and MongoDB. Experienced in building scalable REST APIs, deploying production applications, and implementing CI/CD pipelines in agile environments. Solved 800+ Data Structures & Algorithms problems on LeetCode with a rating of 1862. Proven ability to collaborate on technical design, product roadmaps, and operational excellence. Hackathon winner with an entrepreneurial mindset and passion for building customer-centric, high-quality software.",
+    "Full-Stack Software Engineer skilled in Java, Python, JavaScript, React.js, Node.js, and MongoDB. Experienced in building scalable REST APIs, deploying production applications, and implementing CI/CD pipelines in agile environments. Solved 800+ Data Structures & Algorithms problems on LeetCode with a rating of 1915. Proven ability to collaborate on technical design, product roadmaps, and operational excellence. Hackathon winner with an entrepreneurial mindset and passion for building customer-centric, high-quality software.",
 };
 
 export const stats = [
   { label: "DSA Problems", value: 800, suffix: "+", icon: "fas fa-code" },
-  { label: "LeetCode Rating", value: 1862, suffix: "", icon: "fas fa-chart-line" },
+  { label: "LeetCode Rating", value: 1915, suffix: "", icon: "fas fa-chart-line" },
   { label: "CGPA", value: 8.37, suffix: "", icon: "fas fa-graduation-cap", isDecimal: true },
   { label: "Hackathons Won", value: 1, suffix: "", icon: "fas fa-trophy" },
 ];
@@ -220,8 +220,8 @@ export const codingProfiles = {
     platform: "LeetCode",
     username: "adityapratapsingh",
     profileUrl: "https://leetcode.com/u/Aditya_09__/",
-    rating: 1864,
-    maxRating: 1864,
+    rating: 1915,
+    maxRating: 1915,
     problemsSolved: 800,
     rank: "Knight",
     icon: "fas fa-code",
@@ -232,7 +232,7 @@ export const codingProfiles = {
       { label: "Rank", value: "Knight" },
     ],
     /* Simulated rating history for the graph */
-    ratingHistory: [1450, 1480, 1510, 1490, 1530, 1560, 1545, 1590, 1620, 1600, 1650, 1680, 1660, 1700, 1862 , 1864 , 1862],
+    ratingHistory: [1450, 1480, 1510, 1490, 1530, 1560, 1545, 1590, 1620, 1600, 1650, 1680, 1660, 1700, 1862 , 1864 , 1862 , 1915],
   },
   codeforces: {
     platform: "Codeforces",
